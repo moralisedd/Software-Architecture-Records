@@ -1,7 +1,7 @@
-# Project Title: Complaint Management System (CMS) for ABC Limited.
+## Project Title: Complaint Management System (CMS) for ABC Limited.
 
-## Architectural Style: Monolithic Layered Architecture
+### Architectural Style: Monolithic Layered Architecture
 
-## Technology Stack: 
+### Technology Stack: 
 
-# Getting Started: Clear instructions on how to run the POC
+## Getting Started: Clear instructions on how to run the POC
