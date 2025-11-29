@@ -1,7 +1,7 @@
 ---
 status: {Accepted}
 date: {2025-11-29}
-decision-makers: {Chief, Architect & Leader Develop - David A.}
+decision-makers: {Chief Architect & Lead Developer - David A.}
 consulted: {System Administrator, Help Desk Manager, Security Specialist}
 informed: {All Project Stakeholders}
 ---
